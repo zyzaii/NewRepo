@@ -1,3 +1,6 @@
 Pizza
 Sushi
 Pasta
+Pizza
+Sushi
+Chicken
